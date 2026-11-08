@@ -38,9 +38,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build Quartz
-        run: |
-          chmod +x quartz
-          npx quartz build
+        run: node quartz/bootstrap-cli.mjs build
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
