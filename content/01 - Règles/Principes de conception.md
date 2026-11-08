@@ -175,7 +175,7 @@ Chaque nouvelle fonctionnalité doit apporter une valeur identifiable : un choix
 
 ## Liens utiles
 
-- [[INFERNITY - Index]]
+- [[index]]
 - [[Structure d'une run]]
 - [[Exploration par nœuds]]
 - [[Mort et recommencement]]

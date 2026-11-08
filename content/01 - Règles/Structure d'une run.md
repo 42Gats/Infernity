@@ -145,7 +145,7 @@ La victoire ne repose donc pas uniquement sur la puissance des personnages : ell
 
 ## Liens utiles
 
-- [[INFERNITY - Index]]
+- [[index]]
 - [[Principes de conception]]
 - [[Exploration par nœuds]]
 - [[Progression des personnages]]
