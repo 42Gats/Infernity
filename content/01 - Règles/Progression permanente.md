@@ -231,7 +231,7 @@ Les nouvelles races et classes se débloquent en découvrant des salles ou des �
 
 Elles ne sont pas achetées directement au hub.
 
-Par défaut, les joueurs possèdent la race Humain et la classe Fighter
+Par défaut, les joueurs possèdent la race Humain et les classe Fighter et 
 
 ### Compagnons
 
